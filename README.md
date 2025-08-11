@@ -22,14 +22,18 @@ php artisan serve
 yaml
 Копировать
 Редактировать
-<img width="1916" height="855" alt="post_delete" src="https://github.com/user-attachments/assets/00145033-1aac-42f1-8338-64220eb65a56" />
-<img width="1911" height="937" alt="post_comments" src="https://github.com/user-attachments/assets/07c39e5d-5fcc-4e19-899c-21c747fcd335" />
-<img width="2076" height="1157" alt="get_comments" src="https://github.com/user-attachments/assets/cab310a4-a689-4a91-afb3-efb2a45094e4" />
-<img width="1935" height="980" alt="put_comments" src="https://github.com/user-attachments/assets/33802d85-378d-4414-a360-2485dc3c16d2" />
-<img width="1929" height="1123" alt="delete_comments" src="https://github.com/user-attachments/assets/601fb525-85f0-4362-aa28-9baf8b0bdc90" />
-<img width="1911" height="935" alt="post_user" src="https://github.com/user-attachments/assets/884295c0-000a-42ab-a77b-6b55c1893132" />
-<img width="1909" height="1052" alt="get_users" src="https://github.com/user-attachments/assets/a09a0a7e-497c-46ee-973f-73aecef66797" />
-<img width="1916" height="1032" alt="delete_user" src="https://github.com/user-attachments/assets/a59ca019-e8f2-4ff4-ac7d-a99e3fabf6c6" />
-<img width="1908" height="969" alt="put_users" src="https://github.com/user-attachments/assets/406705da-9507-4802-af0d-8be41a2cd855" />
-<img width="1917" height="895" alt="post_posts" src="https://github.com/user-attachments/assets/d4912922-8289-437c-8aea-04da0f239dd0" />
-<img width="1926" height="884" alt="put_posts" src="https://github.com/user-attachments/assets/3aac21b4-5689-4dae-99ec-20ef75b0afd5" />
+```
+
+
+
+<img width="1908" height="969" alt="put_users" src="https://github.com/user-attachments/assets/7015834c-cb5b-433e-982b-70ac67f2cef9" />
+<img width="1917" height="895" alt="post_posts" src="https://github.com/user-attachments/assets/37a6cd51-3ded-4d2e-b39f-848db0685fe2" />
+<img width="1926" height="884" alt="put_posts" src="https://github.com/user-attachments/assets/e34edae9-0ea4-4563-aa69-609e0f606c0d" />
+<img width="1916" height="855" alt="post_delete" src="https://github.com/user-attachments/assets/7c6dc8bc-757e-49ca-a9e6-6c7eec3f7e1f" />
+<img width="1911" height="937" alt="post_comments" src="https://github.com/user-attachments/assets/73c3ccea-bbcd-4e58-b6ce-b94a06f3fc61" />
+<img width="2076" height="1157" alt="get_comments" src="https://github.com/user-attachments/assets/1c2f6620-22dd-45d0-9b06-748e83829f54" />
+<img width="1935" height="980" alt="put_comments" src="https://github.com/user-attachments/assets/b6d6865f-b157-4d73-b7f5-47a41f5766f9" />
+<img width="1929" height="1123" alt="delete_comments" src="https://github.com/user-attachments/assets/43a61984-d442-4bf5-ad98-f7f68d006023" />
+<img width="1911" height="935" alt="post_user" src="https://github.com/user-attachments/assets/b7ec3f48-1856-4f7f-9733-f9ae6c132d07" />
+<img width="1909" height="1052" alt="get_users" src="https://github.com/user-attachments/assets/7f087ff6-2516-44fb-aa4d-fb581af11ddf" />
+<img width="1916" height="1032" alt="delete_user" src="https://github.com/user-attachments/assets/9c7fc86e-291b-425a-827a-cd89c536dac3" />
