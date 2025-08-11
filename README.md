@@ -19,21 +19,35 @@
 ```bash
 php artisan migrate
 php artisan serve
-yaml
-Копировать
-Редактировать
 ```
 
+# Users 
+ - Get
+ - Post
+ - Put
+ - Delete
 
+<img width="1911" height="935" alt="post_user" src="https://github.com/user-attachments/assets/4db757d4-0b92-470c-9115-5e40a18d5318" />
+<img width="1909" height="1052" alt="get_users" src="https://github.com/user-attachments/assets/4d2d3817-c487-4a2b-8fac-1c8da467f003" />
+<img width="1916" height="1032" alt="delete_user" src="https://github.com/user-attachments/assets/ca5025ef-a495-4d90-ba6b-f22fc373b6cf" />
+<img width="1908" height="969" alt="put_users" src="https://github.com/user-attachments/assets/1e5f3c80-e894-4195-b233-8b48b2dccf22" />
 
-<img width="1908" height="969" alt="put_users" src="https://github.com/user-attachments/assets/7015834c-cb5b-433e-982b-70ac67f2cef9" />
-<img width="1917" height="895" alt="post_posts" src="https://github.com/user-attachments/assets/37a6cd51-3ded-4d2e-b39f-848db0685fe2" />
-<img width="1926" height="884" alt="put_posts" src="https://github.com/user-attachments/assets/e34edae9-0ea4-4563-aa69-609e0f606c0d" />
-<img width="1916" height="855" alt="post_delete" src="https://github.com/user-attachments/assets/7c6dc8bc-757e-49ca-a9e6-6c7eec3f7e1f" />
-<img width="1911" height="937" alt="post_comments" src="https://github.com/user-attachments/assets/73c3ccea-bbcd-4e58-b6ce-b94a06f3fc61" />
-<img width="2076" height="1157" alt="get_comments" src="https://github.com/user-attachments/assets/1c2f6620-22dd-45d0-9b06-748e83829f54" />
-<img width="1935" height="980" alt="put_comments" src="https://github.com/user-attachments/assets/b6d6865f-b157-4d73-b7f5-47a41f5766f9" />
-<img width="1929" height="1123" alt="delete_comments" src="https://github.com/user-attachments/assets/43a61984-d442-4bf5-ad98-f7f68d006023" />
-<img width="1911" height="935" alt="post_user" src="https://github.com/user-attachments/assets/b7ec3f48-1856-4f7f-9733-f9ae6c132d07" />
-<img width="1909" height="1052" alt="get_users" src="https://github.com/user-attachments/assets/7f087ff6-2516-44fb-aa4d-fb581af11ddf" />
-<img width="1916" height="1032" alt="delete_user" src="https://github.com/user-attachments/assets/9c7fc86e-291b-425a-827a-cd89c536dac3" />
+# Posts 
+ - Get
+ - Post
+ - Put
+ - Delete
+<img width="1934" height="982" alt="get_posts" src="https://github.com/user-attachments/assets/502fce0a-bc40-4b60-bc61-65bb668c3001" />
+<img width="1916" height="855" alt="post_delete" src="https://github.com/user-attachments/assets/578ba6a6-fba2-43a9-ae96-3b9362f25b0b" />
+<img width="1917" height="895" alt="post_posts" src="https://github.com/user-attachments/assets/37e7001e-93ed-478e-90c9-b7630c9700f5" />
+<img width="1926" height="884" alt="put_posts" src="https://github.com/user-attachments/assets/af1794e5-14bd-4f24-b2aa-6c7db329e131" />
+
+# Comments
+ - Get
+ - Post
+ - Put
+ - Delete
+<img width="2076" height="1157" alt="get_comments" src="https://github.com/user-attachments/assets/dbf18f30-4cdd-4ca7-b6b2-52908e7d0735" />
+<img width="1935" height="980" alt="put_comments" src="https://github.com/user-attachments/assets/b6659eed-52ab-41a7-8bc2-c5bdd66569cd" />
+<img width="1929" height="1123" alt="delete_comments" src="https://github.com/user-attachments/assets/de103c1b-3412-4e09-9c3d-3dba2d5280db" />
+<img width="1911" height="937" alt="post_comments" src="https://github.com/user-attachments/assets/b65c9370-1276-4962-8a38-4e22e82d37ca" />
